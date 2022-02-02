@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15%;
+}
+input.search {
+  width: 40%;
+}
+div.search {
+  background-color: #f2f2f2;
+  padding: 5px;
+}
+.main {
+  width: 90%;
+
+  margin: auto;
+}
+.footer {
+  padding-top: 2px;
+}
+.f-child {
+  padding-top: 2%;
+  height: 100px;
+  float: left;
+  background-color: dodgerblue;
+}
+.f-child.middle {
+    width: 20%;
+  background-color: #70CCC2;
+  border-left: 2px solid rgb(255, 255, 255);
+  border-right: 2px solid rgb(255, 255, 255);
+}
+
+.f-child.left {
+    width: 40%;
+  background-color: #7EE5DA;
+}
+
+.f-child.right {
+    width: 39.7%;
+  background-color: #62B3AA;
+
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: solid;
+}
